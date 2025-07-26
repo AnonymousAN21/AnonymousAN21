@@ -40,4 +40,5 @@ I'm a full-stack developer and the creator of [Capibara.ts](https://www.npmjs.co
 
 ## 📫 How to reach me
 
+- 📧 Email: [ndrebusinessonly@gmail.com](mailto:ndrebusinessonly@gmail.com)
 - LinkedIn: [linkedin.com/in/andrewtangel](https://linkedin.com/in/andrewtangel)
