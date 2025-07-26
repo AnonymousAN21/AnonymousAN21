@@ -4,8 +4,6 @@ I'm a full-stack developer and the creator of [Capibara.ts](https://www.npmjs.co
 
 ## 🛠 Tech I Use
 
-## 🛠 Tech I Use
-
 [![TypeScript](https://img.shields.io/badge/typescript-blue?style=flat-square)](https://www.typescriptlang.org/)
 [![Go](https://img.shields.io/badge/go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
 [![Node.js](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
