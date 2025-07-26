@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Andrew Tangel!
 
-<!--
-**AnonymousAN21/AnonymousAN21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer and the creator of [Capibara.ts](https://www.npmjs.com/package/capibara.ts) – a minimalist Node.js HTTP framework 🦫.
 
-Here are some ideas to get you started:
+## 🛠 Tech I Use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- TypeScript / Node.js
+- React / TailwindCSS
+- Prisma / PostgreSQL / SQLite
+- Docker, Git, and CI/CD
+
+## 🚀 Projects
+
+- 🔧 [Capibara.ts](https://github.com/andrewtangel/capibara.ts) – Lightweight HTTP framework
+- 🗓️ School Scheduler (EF Core, SQLite)
+
+## 📈 GitHub Stats
+
+![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewtangel&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+
+- Twitter: [@andrewtangel](https://twitter.com/andrewtangel)
+- LinkedIn: [linkedin.com/in/andrewtangel](https://linkedin.com/in/andrewtangel)
