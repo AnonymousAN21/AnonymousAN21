@@ -104,30 +104,10 @@ I aim to bridge structured academic reasoning with practical engineering executi
 
 ## GitHub Activity & Engineering Signals
 
-### GitHub Profile
-
-[https://github.com/AnonymousAN21](https://github.com/AnonymousAN21)
-
-### Contribution Overview
-
-[https://github.com/AnonymousAN21?tab=overview](https://github.com/AnonymousAN21?tab=overview)
-
-### Commit Activity (Per Repository Example)
-
-[https://github.com/AnonymousAN21/capibara.ts/graphs/commit-activity](https://github.com/AnonymousAN21/capibara.ts/graphs/commit-activity)
-
-### Contribution Graph Visualization
-
-[https://github-readme-activity-graph.vercel.app/graph?username=AnonymousAN21](https://github-readme-activity-graph.vercel.app/graph?username=AnonymousAN21)
-
-### GitHub Stats
-
-[https://github-readme-stats.vercel.app/api?username=AnonymousAN21](https://github-readme-stats.vercel.app/api?username=AnonymousAN21)
-
-### Top Languages
-
-[https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousAN21&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousAN21&layout=compact)
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnonymousAN21&theme=github-dark)\
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AnonymousAN21&hide_progress=true)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=AnonymousAN21&theme=radical)\
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L31QY0WX)
 ---
 
 ## What I Bring to a Startup Team
