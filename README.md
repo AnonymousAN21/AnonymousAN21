@@ -1,5 +1,3 @@
----
-
 # Andrew Tangel
 
 **Full-Stack Engineer | Community Founder | Systems-Oriented Builder**
