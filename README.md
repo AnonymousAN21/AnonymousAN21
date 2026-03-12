@@ -13,7 +13,7 @@ I am the founder of **ISCO (Integrated Student Community)** — an education-foc
 ### ISCO — Integrated Student Community
 
 Founder & Technical Lead
-Website: [https://isco.biz.id](Integrated Student Community)
+Website: [https://isco.biz.id](https://isco.biz.id)
 
 ISCO is a student-centered initiative focused on teaching practical and applicable knowledge across disciplines, including programming, technology, system thinking, and digital skills.
 
